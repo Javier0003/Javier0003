@@ -1,4 +1,3 @@
-![logo]()
 <h1 align="center">Hi 👋, I'm Javier Perez</h1>
 <h3 align="center">Learning JavaScript, css and HTML</h3>
 
