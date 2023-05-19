@@ -1,3 +1,4 @@
+![logo]()
 <h1 align="center">Hi 👋, I'm Javier Perez</h1>
 <h3 align="center">Learning JavaScript, css and HTML</h3>
 
@@ -17,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javier0003&show_icons=true&locale=en&layout=compact" alt="javier0003" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javier0003&show_icons=true&locale=en" alt="javier0003" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javier0003&" alt="javier0003" /></p>
