@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Javier Perez</h1>
 <h3 align="center">Learning JavaScript, css and HTML</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=javier0003&label=Profile%20views&color=0e75b6&style=flat" alt="javier0003" /> </p>
-
 - 🌱 I’m currently learning **JavaScript, HTML and css**
 
 - 🤝 I’m looking for help with **JavaScript and css**
