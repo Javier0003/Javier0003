@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Javier Perez</h1>
-<h3 align="center">Trying to learn web developement</h3>
 
 - 🌱 Learning this awesome and painful world of web developement :D
 
