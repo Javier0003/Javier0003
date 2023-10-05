@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier Perez</h1>
-<h3 align="center">Learning JavaScript, css and HTML</h3>
+<h3 align="center">Trying to learn web developement</h3>
 
-- 🌱 I’m currently learning **JavaScript, HTML and css**
+- 🌱 Learning this awesome and painful world of web developement :D
 
 
 <h3 align="left">Languages and Tools:</h3>
